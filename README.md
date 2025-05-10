@@ -62,7 +62,9 @@ Nuts and Bolts
 - Kroeger Counter Sink Torx Bolt
 - Kroeger Counter Sink Phillips Bolt
 
-- Kroeger-Plex (Chad Kroeger Duplex)
+Duplex
+
+- Kroeger-Plex
 
 # Look at these primitive Chads
 
