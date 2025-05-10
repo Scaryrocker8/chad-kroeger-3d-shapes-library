@@ -1,4 +1,4 @@
-![title](preview/kroeger-cube.png)
+![title](preview/primitives/kroeger-cube.png)
 
 # Chad Kroeger 3D Shapes Library
 
