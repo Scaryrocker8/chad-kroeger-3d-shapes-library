@@ -122,5 +122,8 @@ Duplex
 
 ![screenshot](preview/duplex/kroeger-plex.png)
 
+Note: This was made as a joke for former coworkers, 
+as well as an exercise to learn Blender and the 
+fundamentals of 3D modeling and UV unwrapping. 
 
 Created by Jonnie Gieringer
